@@ -1,4 +1,4 @@
-# 기억동행 (Memory Companion)
+# 기억동행 (Memory Companion) app
 
 **어르신의 기억을 따뜻하게 기록하는 음성 기반 대화 노트 앱**
 
